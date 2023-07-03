@@ -113,7 +113,7 @@
 
 ## 开源项目与视野
 
-**git 和 github 共累计 50+ Stars，开源库 dev-ui 、uview 贡献者**
+**gitee 和 github 共累计 50+ Stars，开源库 dev-ui 、uview 贡献者**
 
 - gitee:<a href="https://gitee.com/salted_fish_machine_05">https://gitee.com/salted_fish_machine_05</a>
 - gitHub:<a href="https://github.com/startLine-05">https://github.com/startLine-05</a>
