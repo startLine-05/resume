@@ -4,7 +4,7 @@
   <ul>
     <li><span>性别</span>男</li>
     <li><span>学历</span>全日制统招本科</li>
-    <li><span>电话/微信</span>18223255443</li>
+    <li><span>电话/微信</span>1822***</li>
     <li><span>邮箱</span>startline_05@163.com</li>
     <li><span>博客</span><a href="https://salted_fish_machine_05.gitee.io/start-line-blog">https://salted_fish_machine_05.gitee.io/start-line-blog</a></li>
   </ul>
